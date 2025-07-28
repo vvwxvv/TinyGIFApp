@@ -1,0 +1,68 @@
+2025-07-28 12:07:11,388 - src.assets.gif_optimizer - INFO - Starting GIF optimization for folder: D:\CLIENTS_DATA_SOURCES\Hu Jing Xuan Data Source\2024_Nuo_Masks_The_Classic_of_Mountains_and_Seas_Gif
+2025-07-28 12:07:11,390 - src.assets.gif_optimizer - INFO - Target size: 500 KB
+2025-07-28 12:07:11,390 - src.assets.gif_optimizer - INFO - Output folder: D:\CLIENTS_DATA_SOURCES\Hu Jing Xuan Data Source\2024_Nuo_Masks_The_Classic_of_Mountains_and_Seas_Gif\optimized
+2025-07-28 12:07:11,390 - src.assets.gif_optimizer - INFO - Found 10 GIF files to process
+2025-07-28 12:07:11,390 - src.assets.gif_optimizer - INFO - Processing: 2024_Nuo_Masks_The_Classic_of_Mountains_and_Seas_1.gif (21066.1 KB)
+2025-07-28 12:07:11,905 - src.assets.gif_optimizer - INFO - Optimized: optimized_2024_Nuo_Masks_The_Classic_of_Mountains_and_Seas_1.gif (21066.1 KB ¡ú 642.6 KB, 96.9% reduction)
+2025-07-28 12:07:11,905 - src.assets.gif_optimizer - INFO - Processing: 2024_Nuo_Masks_The_Classic_of_Mountains_and_Seas_1.gif (21066.1 KB)
+2025-07-28 12:07:12,323 - src.assets.gif_optimizer - INFO - Optimized: optimized_2024_Nuo_Masks_The_Classic_of_Mountains_and_Seas_1.gif (21066.1 KB ¡ú 642.6 KB, 96.9% reduction)
+2025-07-28 12:07:12,324 - src.assets.gif_optimizer - INFO - Processing: 2024_Nuo_Masks_The_Classic_of_Mountains_and_Seas_2.gif (14807.3 KB)
+2025-07-28 12:07:12,616 - src.assets.gif_optimizer - INFO - Optimized: optimized_2024_Nuo_Masks_The_Classic_of_Mountains_and_Seas_2.gif (14807.3 KB ¡ú 624.7 KB, 95.8% reduction)
+2025-07-28 12:07:12,617 - src.assets.gif_optimizer - INFO - Processing: 2024_Nuo_Masks_The_Classic_of_Mountains_and_Seas_2.gif (14807.3 KB)
+2025-07-28 12:07:12,907 - src.assets.gif_optimizer - INFO - Optimized: optimized_2024_Nuo_Masks_The_Classic_of_Mountains_and_Seas_2.gif (14807.3 KB ¡ú 624.7 KB, 95.8% reduction)
+2025-07-28 12:07:12,907 - src.assets.gif_optimizer - INFO - Processing: 2024_Nuo_Masks_The_Classic_of_Mountains_and_Seas_3.gif (14968.7 KB)
+2025-07-28 12:07:13,235 - src.assets.gif_optimizer - INFO - Optimized: optimized_2024_Nuo_Masks_The_Classic_of_Mountains_and_Seas_3.gif (14968.7 KB ¡ú 683.1 KB, 95.4% reduction)
+2025-07-28 12:07:13,235 - src.assets.gif_optimizer - INFO - Processing: 2024_Nuo_Masks_The_Classic_of_Mountains_and_Seas_3.gif (14968.7 KB)
+2025-07-28 12:07:13,556 - src.assets.gif_optimizer - INFO - Optimized: optimized_2024_Nuo_Masks_The_Classic_of_Mountains_and_Seas_3.gif (14968.7 KB ¡ú 683.1 KB, 95.4% reduction)
+2025-07-28 12:07:13,556 - src.assets.gif_optimizer - INFO - Processing: 2024_Nuo_Masks_The_Classic_of_Mountains_and_Seas_4.gif (19781.5 KB)
+2025-07-28 12:07:13,953 - src.assets.gif_optimizer - INFO - Optimized: optimized_2024_Nuo_Masks_The_Classic_of_Mountains_and_Seas_4.gif (19781.5 KB ¡ú 640.0 KB, 96.8% reduction)
+2025-07-28 12:07:13,953 - src.assets.gif_optimizer - INFO - Processing: 2024_Nuo_Masks_The_Classic_of_Mountains_and_Seas_4.gif (19781.5 KB)
+2025-07-28 12:07:14,336 - src.assets.gif_optimizer - INFO - Optimized: optimized_2024_Nuo_Masks_The_Classic_of_Mountains_and_Seas_4.gif (19781.5 KB ¡ú 640.0 KB, 96.8% reduction)
+2025-07-28 12:07:14,337 - src.assets.gif_optimizer - INFO - Processing: 2024_Nuo_Masks_The_Classic_of_Mountains_and_Seas_5.gif (18370.2 KB)
+2025-07-28 12:07:14,697 - src.assets.gif_optimizer - INFO - Optimized: optimized_2024_Nuo_Masks_The_Classic_of_Mountains_and_Seas_5.gif (18370.2 KB ¡ú 655.5 KB, 96.4% reduction)
+2025-07-28 12:07:14,698 - src.assets.gif_optimizer - INFO - Processing: 2024_Nuo_Masks_The_Classic_of_Mountains_and_Seas_5.gif (18370.2 KB)
+2025-07-28 12:07:15,056 - src.assets.gif_optimizer - INFO - Optimized: optimized_2024_Nuo_Masks_The_Classic_of_Mountains_and_Seas_5.gif (18370.2 KB ¡ú 655.5 KB, 96.4% reduction)
+2025-07-28 12:07:15,057 - src.assets.gif_optimizer - INFO - ==================================================
+2025-07-28 12:07:15,057 - src.assets.gif_optimizer - INFO - OPTIMIZATION COMPLETED
+2025-07-28 12:07:15,057 - src.assets.gif_optimizer - INFO - ==================================================
+2025-07-28 12:07:15,057 - src.assets.gif_optimizer - INFO - Files processed: 10
+2025-07-28 12:07:15,057 - src.assets.gif_optimizer - INFO - Successful: 10
+2025-07-28 12:07:15,057 - src.assets.gif_optimizer - INFO - Failed: 0
+2025-07-28 12:07:15,057 - src.assets.gif_optimizer - INFO - Original total size: 177987.6 KB
+2025-07-28 12:07:15,057 - src.assets.gif_optimizer - INFO - Optimized total size: 6492.0 KB
+2025-07-28 12:07:15,058 - src.assets.gif_optimizer - INFO - Total savings: 171495.6 KB (96.4%)
+2025-07-28 12:07:15,058 - src.assets.gif_optimizer - INFO - ==================================================
+2025-07-28 12:22:16,924 - src.assets.gif_optimizer - INFO - Starting GIF optimization for folder: D:\CLIENTS_DATA_SOURCES\Hu Jing Xuan Data Source\2024_Nuo_Masks_The_Classic_of_Mountains_and_Seas_Gif
+2025-07-28 12:22:16,924 - src.assets.gif_optimizer - INFO - Target size: 6000 KB
+2025-07-28 12:22:16,924 - src.assets.gif_optimizer - INFO - Output folder: D:\CLIENTS_DATA_SOURCES\Hu Jing Xuan Data Source\2024_Nuo_Masks_The_Classic_of_Mountains_and_Seas_Gif\optimized
+2025-07-28 12:22:16,924 - src.assets.gif_optimizer - INFO - Found 10 GIF files to process
+2025-07-28 12:22:16,925 - src.assets.gif_optimizer - INFO - Processing: 2024_Nuo_Masks_The_Classic_of_Mountains_and_Seas_1.gif (21066.1 KB)
+2025-07-28 12:22:17,555 - src.assets.gif_optimizer - INFO - Optimized: optimized_2024_Nuo_Masks_The_Classic_of_Mountains_and_Seas_1.gif (21066.1 KB ¡ú 6132.6 KB, 70.9% reduction)
+2025-07-28 12:22:17,555 - src.assets.gif_optimizer - INFO - Processing: 2024_Nuo_Masks_The_Classic_of_Mountains_and_Seas_1.gif (21066.1 KB)
+2025-07-28 12:22:18,200 - src.assets.gif_optimizer - INFO - Optimized: optimized_2024_Nuo_Masks_The_Classic_of_Mountains_and_Seas_1.gif (21066.1 KB ¡ú 6132.6 KB, 70.9% reduction)
+2025-07-28 12:22:18,200 - src.assets.gif_optimizer - INFO - Processing: 2024_Nuo_Masks_The_Classic_of_Mountains_and_Seas_2.gif (14807.3 KB)
+2025-07-28 12:22:18,679 - src.assets.gif_optimizer - INFO - Optimized: optimized_2024_Nuo_Masks_The_Classic_of_Mountains_and_Seas_2.gif (14807.3 KB ¡ú 6156.1 KB, 58.4% reduction)
+2025-07-28 12:22:18,679 - src.assets.gif_optimizer - INFO - Processing: 2024_Nuo_Masks_The_Classic_of_Mountains_and_Seas_2.gif (14807.3 KB)
+2025-07-28 12:22:19,165 - src.assets.gif_optimizer - INFO - Optimized: optimized_2024_Nuo_Masks_The_Classic_of_Mountains_and_Seas_2.gif (14807.3 KB ¡ú 6156.1 KB, 58.4% reduction)
+2025-07-28 12:22:19,166 - src.assets.gif_optimizer - INFO - Processing: 2024_Nuo_Masks_The_Classic_of_Mountains_and_Seas_3.gif (14968.7 KB)
+2025-07-28 12:22:19,709 - src.assets.gif_optimizer - INFO - Optimized: optimized_2024_Nuo_Masks_The_Classic_of_Mountains_and_Seas_3.gif (14968.7 KB ¡ú 6695.3 KB, 55.3% reduction)
+2025-07-28 12:22:19,709 - src.assets.gif_optimizer - INFO - Processing: 2024_Nuo_Masks_The_Classic_of_Mountains_and_Seas_3.gif (14968.7 KB)
+2025-07-28 12:22:20,259 - src.assets.gif_optimizer - INFO - Optimized: optimized_2024_Nuo_Masks_The_Classic_of_Mountains_and_Seas_3.gif (14968.7 KB ¡ú 6695.3 KB, 55.3% reduction)
+2025-07-28 12:22:20,351 - src.assets.gif_optimizer - INFO - Processing: 2024_Nuo_Masks_The_Classic_of_Mountains_and_Seas_4.gif (19781.5 KB)
+2025-07-28 12:22:20,941 - src.assets.gif_optimizer - INFO - Optimized: optimized_2024_Nuo_Masks_The_Classic_of_Mountains_and_Seas_4.gif (19781.5 KB ¡ú 5958.6 KB, 69.9% reduction)
+2025-07-28 12:22:20,941 - src.assets.gif_optimizer - INFO - Processing: 2024_Nuo_Masks_The_Classic_of_Mountains_and_Seas_4.gif (19781.5 KB)
+2025-07-28 12:22:21,536 - src.assets.gif_optimizer - INFO - Optimized: optimized_2024_Nuo_Masks_The_Classic_of_Mountains_and_Seas_4.gif (19781.5 KB ¡ú 5958.6 KB, 69.9% reduction)
+2025-07-28 12:22:21,537 - src.assets.gif_optimizer - INFO - Processing: 2024_Nuo_Masks_The_Classic_of_Mountains_and_Seas_5.gif (18370.2 KB)
+2025-07-28 12:22:22,109 - src.assets.gif_optimizer - INFO - Optimized: optimized_2024_Nuo_Masks_The_Classic_of_Mountains_and_Seas_5.gif (18370.2 KB ¡ú 6331.8 KB, 65.5% reduction)
+2025-07-28 12:22:22,109 - src.assets.gif_optimizer - INFO - Processing: 2024_Nuo_Masks_The_Classic_of_Mountains_and_Seas_5.gif (18370.2 KB)
+2025-07-28 12:22:22,699 - src.assets.gif_optimizer - INFO - Optimized: optimized_2024_Nuo_Masks_The_Classic_of_Mountains_and_Seas_5.gif (18370.2 KB ¡ú 6331.8 KB, 65.5% reduction)
+2025-07-28 12:22:22,699 - src.assets.gif_optimizer - INFO - ==================================================
+2025-07-28 12:22:22,699 - src.assets.gif_optimizer - INFO - OPTIMIZATION COMPLETED
+2025-07-28 12:22:22,699 - src.assets.gif_optimizer - INFO - ==================================================
+2025-07-28 12:22:22,699 - src.assets.gif_optimizer - INFO - Files processed: 10
+2025-07-28 12:22:22,701 - src.assets.gif_optimizer - INFO - Successful: 10
+2025-07-28 12:22:22,701 - src.assets.gif_optimizer - INFO - Failed: 0
+2025-07-28 12:22:22,701 - src.assets.gif_optimizer - INFO - Original total size: 177987.6 KB
+2025-07-28 12:22:22,701 - src.assets.gif_optimizer - INFO - Optimized total size: 62549.0 KB
+2025-07-28 12:22:22,701 - src.assets.gif_optimizer - INFO - Total savings: 115438.6 KB (64.9%)
+2025-07-28 12:22:22,701 - src.assets.gif_optimizer - INFO - ==================================================
